@@ -92,8 +92,7 @@ p {
 
 /* Photo */
 #photo {
-  display: block;
-  margin: 0 auto;
+  margin-left: 40px;
 }
 
 
@@ -168,4 +167,5 @@ footer {
   padding: 10px 0;
   text-align: center;
   width: 100%;
+
 }
